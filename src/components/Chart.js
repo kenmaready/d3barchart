@@ -65,8 +65,9 @@ class Chart extends React.Component {
 
             const svg = d3.select("#chart")
                           .append("svg")
-                          .attr("width", width)
-                          .attr("height", height);
+                          .attr("preserveASpectRatio", "xMinYMin meet")
+                          .attr("viewBox", "0 0 " + width + " " + height)
+                          .attr("id", "chart-content");
 
             const tooltip = d3.select("#chart")
                               .append("div")
@@ -126,7 +127,11 @@ class Chart extends React.Component {
     }
 
     render() {
-        return <div id="chart"></div>;
+        return (
+            <div id="chart-container" class="ui container">
+                <div id="chart"></div>
+            </div>
+        );
     }
 
 }
