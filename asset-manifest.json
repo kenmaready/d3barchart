@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/d3barchart/static/css/main.1c3fd4df.chunk.css",
-    "main.js": "/d3barchart/static/js/main.1ed0bee5.chunk.js",
-    "main.js.map": "/d3barchart/static/js/main.1ed0bee5.chunk.js.map",
+    "main.css": "/d3barchart/static/css/main.10746f53.chunk.css",
+    "main.js": "/d3barchart/static/js/main.f64867d6.chunk.js",
+    "main.js.map": "/d3barchart/static/js/main.f64867d6.chunk.js.map",
     "runtime~main.js": "/d3barchart/static/js/runtime~main.d2deea42.js",
     "runtime~main.js.map": "/d3barchart/static/js/runtime~main.d2deea42.js.map",
     "static/js/2.0eb06809.chunk.js": "/d3barchart/static/js/2.0eb06809.chunk.js",
     "static/js/2.0eb06809.chunk.js.map": "/d3barchart/static/js/2.0eb06809.chunk.js.map",
     "index.html": "/d3barchart/index.html",
-    "precache-manifest.d82493cca282e4ecb1dd3c2a7fc5be29.js": "/d3barchart/precache-manifest.d82493cca282e4ecb1dd3c2a7fc5be29.js",
+    "precache-manifest.52aea5b3bff6951f6aa176498832da63.js": "/d3barchart/precache-manifest.52aea5b3bff6951f6aa176498832da63.js",
     "service-worker.js": "/d3barchart/service-worker.js",
-    "static/css/main.1c3fd4df.chunk.css.map": "/d3barchart/static/css/main.1c3fd4df.chunk.css.map"
+    "static/css/main.10746f53.chunk.css.map": "/d3barchart/static/css/main.10746f53.chunk.css.map"
   }
 }
