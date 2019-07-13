@@ -1,0 +1,22 @@
+#chart .bar {
+    fill: blue;
+}
+
+#chart .bar:hover {
+    fill: whitesmoke;
+}
+
+#chart .tooltip {
+    position: absolute;
+    padding: 8px;
+    text-align: center;
+    background-color: lightgray;
+    border: 1px solid gray;
+    border-radius: 5px;
+    pointer-events: none;
+}
+
+#chart .footnote {
+    font-size: 12px;
+    font-style: italic;
+}
